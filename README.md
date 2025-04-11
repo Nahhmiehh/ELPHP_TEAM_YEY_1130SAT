@@ -1,12 +1,12 @@
-# ELPHP_Team_Yey_1130SAT
+# 📝 YNION – Note Collaboration App
 
-Title: YNION
+**“Your note is our note.”**  
+YNION is a real-time note-collaborating app that allows you to create, share, and collaborate on notes with your friends or team. Whether you're brainstorming ideas, planning a project, or reviewing for exams — YNION makes teamwork easier and more efficient.
 
-Description:
-\nIntroducing our app, YNION. Your note is our note, a note-collaborating app where you can share with your friends.
+---
 
-Links:
-\nELPHP: https://github.com/Nahhmiehh/ELPHP_TEAM_YEY_1130SAT
-\nELAND: https://github.com/Nahhmiehh/ELAND_TEAM_YEY_430SAT
+## 🔗 Links
 
-Documents: https://docs.google.com/document/d/1TrEWjK6FieIg-DqyBIte-UaRfpGGMI0S/edit
+- **ELPHP GitHub Repository**: [ELPHP_Team_Yey_1130SAT](https://github.com/Nahhmiehh/ELPHP_TEAM_YEY_1130SAT)  
+- **ELAND GitHub Repository**: [ELAND_Team_Yey_430SAT](https://github.com/Nahhmiehh/ELAND_TEAM_YEY_430SAT)  
+- **Project Document**: [Google Docs](https://docs.google.com/document/d/1TrEWjK6FieIg-DqyBIte-UaRfpGGMI0S/edit)
