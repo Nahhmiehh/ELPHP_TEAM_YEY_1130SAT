@@ -7,6 +7,6 @@ YNION is a real-time note-collaborating app that allows you to create, share, an
 
 ## 🔗 Links
 
-- **ELPHP GitHub Repository**: [ELPHP_Team_Yey_1130SAT](https://github.com/Nahhmiehh/ELPHP_TEAM_YEY_1130SAT)  
-- **ELAND GitHub Repository**: [ELAND_Team_Yey_430SAT](https://github.com/Nahhmiehh/ELAND_TEAM_YEY_430SAT)  
+- **ELPHP GitHub Repository**: [ELPHP_TEAM_YEY_1130SAT](https://github.com/Nahhmiehh/ELPHP_TEAM_YEY_1130SAT)  
+- **ELAND GitHub Repository**: [ELAND_TEAM_YEY_430SAT](https://github.com/Nahhmiehh/ELAND_TEAM_YEY_430SAT)  
 - **Project Document**: [Google Docs](https://docs.google.com/document/d/1TrEWjK6FieIg-DqyBIte-UaRfpGGMI0S/edit)
